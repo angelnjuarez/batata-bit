@@ -1,0 +1,30 @@
+header{
+    height: 250px;
+}
+
+header img{
+    margin-top: 40px;
+}
+
+.header--title-conteiner h1{
+    font-size: 3rem;
+}
+
+.header--title-conteiner p{
+    font-size: 2rem;
+}
+
+.main-tables-conteiner{
+    margin: 0 auto;
+}
+
+.product-cards--conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
